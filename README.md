@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hisirdou
 - 👀 I’m interested in coding and artificial intelligence.
-- 🌱 I’m currently learning Front end languages.
+- 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on back-end projects.
 - 📫 How to reach me zizi137693@gmail.com
 
